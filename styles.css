@@ -16,7 +16,7 @@ header h2 {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 50vh; /* Set a fixed height to the container to center the image vertically */
+  height: 25vh; /* Set a fixed height to the container to center the image vertically */
 }
 
 .image-container img {
